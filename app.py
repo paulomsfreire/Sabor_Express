@@ -78,7 +78,7 @@ def cadastrar_novo_restaurante():
 
     nome_do_restaurante = input('Digite o nome do restaurante: ')
     restaurantes.append(nome_do_restaurante)
-    print(f'O restaurante {nome_do_restaurante} foi cadastrado com sucesso\n')    
+    print(f'O restaurante {nome_do_restaurante} foi cadastrado\n')    
     
     voltar_ao_menu()
 
