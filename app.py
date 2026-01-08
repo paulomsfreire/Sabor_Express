@@ -103,7 +103,7 @@ def listar_restaurantes_while():
      voltar_ao_menu()    
     
 def localizar_restaurante():
-     exibir_subtitulo('Localizar restaurante')
+     exibir_subtitulo('Encontrar restaurante')
 
      nome_restaurante = input('Nome do restaurante a ser localizado: ')
 
